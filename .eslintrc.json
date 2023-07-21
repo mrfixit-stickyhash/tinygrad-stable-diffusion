@@ -1,0 +1,9 @@
+{
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "rules": {
+      // Add any other ESLint rules here if needed
+    }
+  }
+  
